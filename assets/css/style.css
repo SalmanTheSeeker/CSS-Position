@@ -84,9 +84,9 @@ h1{
 
     width: 100px;
     position: absolute;
-    top: 130;
-    right: 10;
-    transform: rotate(310deg);
+    top: 150;
+    right: 20;
+    transform: rotate(300deg);
 }
 
 .web{
