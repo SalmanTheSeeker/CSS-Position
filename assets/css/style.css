@@ -39,11 +39,12 @@ letter-spacing: 10px;
 
 h1{
     color: #030479;
-    width: 250px;
+    width: 300px;
     position: absolute;
     bottom: 35;
     left: 35;
-    font-size: 40px;
+    font-size: 50px;
+    word-spacing: 10px;
    
 }
 
