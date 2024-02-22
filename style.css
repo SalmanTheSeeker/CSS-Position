@@ -1,0 +1,111 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+
+.container{
+
+    width: 750px;
+    height: 400px;
+    padding: 10px;
+    background-color: #D4FFEE;
+    position: relative;
+    margin: auto;
+    margin-top: 10%;
+}
+
+
+.tutorial > img{
+
+    width: 40px;
+    padding: 5px;
+    margin-left: 17px;
+    margin-top: 17px;
+    
+}
+
+.tutorial >b{
+color: #030479;
+font-size: 20px;
+font-family: "Dosis";
+position: absolute;
+top: 35;
+margin-left: 5px;
+letter-spacing: 10px;
+
+}
+
+h1{
+    color: #030479;
+    width: 250px;
+    position: absolute;
+    bottom: 35;
+    left: 35;
+    font-size: 40px;
+   
+}
+
+.gird{
+
+    width: 250px;
+    position: absolute;
+    top: 70;
+    right: 65;
+}
+
+.design{
+
+    width: 115px;
+    position: absolute;
+    top: 15;
+    right: 45;
+}
+
+.design-txt{
+
+    font-size: 30px;
+    color: #030479;
+    position: absolute;
+    top: 70;
+    right: 60;
+}
+
+.arc{
+
+    width: 200px;
+    position: absolute;
+    top: 85;
+    right: 225;
+}
+
+.cursor{
+
+    width: 100px;
+    position: absolute;
+    top: 130;
+    right: 10;
+    transform: rotate(310deg);
+}
+
+.web{
+
+    width: 125px;
+    position: absolute;
+    bottom: 90;
+    right: 250;
+}
+
+.box{
+
+    width: 110px;
+    position: absolute;
+    top: 242;
+    right: 93;
+}
+
+@font-face {
+    font-family: Dosis;
+    src: url(../fonts/Dosis-VariableFont_wght.ttf);
+}
